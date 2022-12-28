@@ -1,2 +1,2 @@
 # Banking-System
- This was my final project for my Object-Oriented Programming course taken at the Bambuí Campus of Instituto Federal of Minas Gerais. I made it with a colleague. It emulates the operation of a banking system.
+ This was my final project for the Object-Oriented Programming course that I took at the Bambuí Campus of Federal Institute of Minas Gerais. I made it with a colleague. It emulates the operation of a banking system.
