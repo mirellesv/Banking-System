@@ -1,2 +1,2 @@
 # Banking-System
- Final assignment that I made with a colleague of the OOP course. It emulates the operation of a banking system.
+ This was my final project for my Object-Oriented Programming taken at the Bambuí Campus of Instituto Federal of Minas Gerais. I made it with a colleague. It emulates the operation of a banking system.
